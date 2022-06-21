@@ -9,5 +9,13 @@
 - Github：[juruo888](https://github.com/juruo888)
 
 ## Projects
-- [ScratchOff](https://github.com/class-tools/ScratchOff)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=class-tools&repo=ScratchOff&show_owner=1)](https://github.com/class-tools/ScratchOff)
 - ~~Teacher Class Helper：暂未开坑。~~
+
+## Info
+
+![](https://github-readme-stats.vercel.app/api?username=juruo888&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juruo888)
+
+![](https://juruo888.github.io/github-metrics.svg)
