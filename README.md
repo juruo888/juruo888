@@ -18,4 +18,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juruo888)
 
-![](https://juruo888.github.io/github-metrics.svg)
+![](https://juruo888.vercel.app/github-metrics.svg)
