@@ -1,6 +1,7 @@
 ## GPG Keys
-- GPG Public Key：[`4AEE18F83AFDEB23`](https://github.com/juruo888.gpg)
-- GPG Privacy Key：`76CAFCE26C5E9670`
+
+- GPG Public Key：[`FCC8850C51B2EEAC`](https://github.com/juruo888.gpg)
+- GPG Privacy Key：`F26F8B392D7873C5`
 
 ## Accounts
 - Bilibili：[juruo888](https://space.bilibili.com/1530426037)
@@ -9,8 +10,10 @@
 - Github：[juruo888](https://github.com/juruo888)
 
 ## Projects
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=class-tools&repo=ScratchOff&show_owner=1)](https://github.com/class-tools/ScratchOff)
-- ~~Teacher Class Helper：暂未开坑。~~
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=juruo-dev-team&repo=GCC-Compile&show_owner=1)](https://github.com/juruo-dev-team/GCC-Compile)
 
 ## Info
 
